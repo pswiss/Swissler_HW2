@@ -347,10 +347,11 @@ UsedLibrary="D:/EAGLE 8.1.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="D:/EAGLE 8.1.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="D:/EAGLE 8.1.0/lbr/zetex.lbr"
 UsedLibrary="D:/EAGLE 8.1.0/lbr/zilog.lbr"
+UsedLibrary="Swissler_HW2.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="207 194 1406 793"
+Loc="71 0 1270 1047"
 State=2
 Number=0
 
