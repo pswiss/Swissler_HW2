@@ -12740,7 +12740,7 @@ Source: www.kingbright.com</description>
 <wire x1="25.4" y1="33.02" x2="38.1" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="VCAP" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="20.VCAP"/>
 <wire x1="86.36" y1="38.1" x2="101.6" y2="38.1" width="0.1524" layer="91"/>
@@ -12748,6 +12748,7 @@ Source: www.kingbright.com</description>
 <wire x1="106.68" y1="43.18" x2="109.22" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="C5" gate="G$1" pin="+"/>
 <wire x1="109.22" y1="43.18" x2="109.22" y2="40.64" width="0.1524" layer="91"/>
+<label x="93.98" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MCLR" class="0">
