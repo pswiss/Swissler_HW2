@@ -12725,14 +12725,22 @@ Source: www.kingbright.com</description>
 <wire x1="180.34" y1="121.92" x2="180.34" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
+<<<<<<< HEAD
 <net name="OSC1" class="0">
+=======
+<net name="N$2" class="0">
+>>>>>>> origin/master
 <segment>
 <pinref part="U$9" gate="G$1" pin="3.OSC2"/>
 <pinref part="U$1" gate="G$1" pin="9.OSC1/A2"/>
 <wire x1="5.08" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
+<<<<<<< HEAD
 <net name="OSC2" class="0">
+=======
+<net name="N$3" class="0">
+>>>>>>> origin/master
 <segment>
 <pinref part="U$9" gate="G$1" pin="1.OSC1"/>
 <wire x1="5.08" y1="27.94" x2="20.32" y2="27.94" width="0.1524" layer="91"/>

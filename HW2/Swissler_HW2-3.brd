@@ -6,7 +6,11 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
+<<<<<<< HEAD
 <grid distance="2" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+=======
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+>>>>>>> origin/master
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -22,6 +26,7 @@
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<<<<<<< HEAD
 <layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
@@ -30,6 +35,16 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+=======
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+>>>>>>> origin/master
 <layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
@@ -37,7 +52,11 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<<<<<<< HEAD
 <layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+=======
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+>>>>>>> origin/master
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
@@ -162,6 +181,7 @@
 <text x="3.175" y="20.955" size="1.27" layer="121">A4</text>
 <text x="3.175" y="18.415" size="1.27" layer="121">+3V3</text>
 <text x="3.175" y="15.875" size="1.27" layer="121">GND</text>
+<<<<<<< HEAD
 <text x="31.75" y="46.355" size="1.778" layer="21">Petras Swissler</text>
 <text x="48.26" y="46.355" size="1.778" layer="22" rot="MR0">Petras Swissler</text>
 <rectangle x1="34.93525" y1="32.091446875" x2="36.1735" y2="32.110496875" layer="21" rot="R0.4"/>
@@ -17874,6 +17894,8 @@
 <rectangle x1="14.9098" y1="18.5166" x2="15.3162" y2="18.5674" layer="21"/>
 <rectangle x1="14.097" y1="18.5674" x2="15.1638" y2="18.6182" layer="21"/>
 <rectangle x1="14.2494" y1="18.6182" x2="15.0114" y2="18.669" layer="21"/>
+=======
+>>>>>>> origin/master
 </plain>
 <libraries>
 <library name="Swissler_HW2">
@@ -18365,7 +18387,11 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="C1" library="Swissler_HW2" package="C025-025X050" value="0.1uF" x="17.78" y="10.16" smashed="yes" rot="R270">
+<<<<<<< HEAD
 <attribute name="VALUE" x="15.7988" y="13.0048" size="1.27" layer="27" ratio="10"/>
+=======
+<attribute name="VALUE" x="14.986" y="12.446" size="1.27" layer="27" ratio="10" rot="R270"/>
+>>>>>>> origin/master
 </element>
 <element name="C2" library="Swissler_HW2" package="C025-025X050" value="0.1uF" x="29.21" y="45.72" smashed="yes" rot="R90">
 <attribute name="VALUE" x="26.416" y="48.006" size="1.27" layer="27" ratio="10" rot="R270"/>
@@ -18377,7 +18403,11 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="21.971" y="7.874" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="C5" library="Swissler_HW2" package="B45181B" value="10uF" x="33.02" y="20.32" smashed="yes" rot="R270">
+<<<<<<< HEAD
 <attribute name="VALUE" x="31.369" y="24.384" size="1.27" layer="27" ratio="10"/>
+=======
+<attribute name="VALUE" x="36.449" y="22.479" size="1.27" layer="27" ratio="10" rot="R270"/>
+>>>>>>> origin/master
 </element>
 <element name="C6" library="Swissler_HW2" package="B45181B" value="10uF" x="13.97" y="3.81" smashed="yes" rot="R180">
 <attribute name="VALUE" x="14.859" y="8.001" size="1.27" layer="27" ratio="10" rot="R180"/>
