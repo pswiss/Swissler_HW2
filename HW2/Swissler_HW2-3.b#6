@@ -162,6 +162,8 @@
 <text x="3.175" y="20.955" size="1.27" layer="121">A4</text>
 <text x="3.175" y="18.415" size="1.27" layer="121">+3V3</text>
 <text x="3.175" y="15.875" size="1.27" layer="121">GND</text>
+<text x="31.75" y="46.355" size="1.778" layer="21">Petras Swissler</text>
+<text x="48.26" y="46.355" size="1.778" layer="22" rot="MR0">Petras Swissler</text>
 </plain>
 <libraries>
 <library name="Swissler_HW2">
